@@ -1,0 +1,9 @@
+sklearn
+tensorflow
+msgpack
+keras
+numpy
+scipy
+matplotlib
+gym
+pandas
