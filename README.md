@@ -1,5 +1,5 @@
 # Kickstart-AI
-This is the repository which houses all the code for the Kickstart AI course on [Udemy](https://udemy.com/kickstart-ai). From Tensorflow Live Lessons
+This is the repository which houses all the code for the Kickstart AI course on [Udemy](https://udemy.com/kickstart-ai). From Tensorflow Live Lessons by Jon Krohn
 
 ## The Course
 
